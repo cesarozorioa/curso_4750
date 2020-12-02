@@ -3,5 +3,13 @@
 using namespace std;
 main()
 {
-    cout<<"Primera Version del programa";
+    cout<<"Inicio de OPeraciones";
+    int numero= 10,c=1,suma=0;
+    while (c<=numero)
+    {
+        suma+=c;
+        c++;
+    }
+    cout<<"El valor de suma ="<<suma;
+
 }
