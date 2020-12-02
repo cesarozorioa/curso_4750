@@ -11,5 +11,6 @@ main()
         c++;
     }
     cout<<"El valor de suma ="<<suma;
+    cout<<"Autor Cesar Osorio";
 
 }
